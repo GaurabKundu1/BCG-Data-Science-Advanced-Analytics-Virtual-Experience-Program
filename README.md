@@ -12,3 +12,7 @@ The Lead Data Scientist (LDS) held an initial team meeting to discuss various hy
 
 Your LDS wants an email with your thoughts on how the team should go about to test this hypothesis.
 
+## Your task
+Your first task today is to understand what is going on at the client and think about how you would approach a problem like this to test this specific hypothesis.
+
+Formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. Communicate your thoughts and findings in an email to your LDS, focusing on the potential data that you would need from the client and analytical models you would use to test such a hypothesis.
