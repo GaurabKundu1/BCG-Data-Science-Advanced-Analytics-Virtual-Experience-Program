@@ -40,3 +40,21 @@ Clean the data – you might have to address missing values, duplicates, data ty
 ## Sub-Task 2:
 
 Perform some exploratory data analysis. Look into the data types, data statistics, and identify any missing data or null values, and how often they appear in the data. Visualize specific parameters as well as variable distributions.
+
+
+## Task 3 Feature Engineering
+
+## Background information on your task
+The team now has a good understanding of the data and feels confident to use the data to further understand the business problem. The team now needs to brainstorm and build out features to uncover signals in the data that could inform the churn model.
+
+Feature engineering is one of the keys to unlocking predictive insight through mathematical modeling. Based on the data that is available and was cleaned, identify what you think could be drivers of churn for our client and build those features to later use in your model.
+
+## Your task
+
+## Sub-task 1: 
+
+Think through what key drivers of churn could be for our client
+
+## Sub-task 2: 
+
+Build the features in order to get ready to model
