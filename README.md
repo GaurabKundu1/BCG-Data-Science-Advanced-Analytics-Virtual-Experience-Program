@@ -1,3 +1,6 @@
+![Data Science   Advanced Analytics VEP](https://user-images.githubusercontent.com/86102231/138312314-cce3ea80-26c3-4faa-a13c-b5fdc1f397bd.png)
+
+
 # BCG-Data-Science-Advanced-Analytics-Virtual-Experience-Program
 
 
