@@ -97,4 +97,4 @@ Develop an executive summary slide synthesizing all the findings from the projec
 # Badge of Completion 
 ![Data Science   Advanced Analytics VEP](https://user-images.githubusercontent.com/86102231/138312314-cce3ea80-26c3-4faa-a13c-b5fdc1f397bd.png)
 
-<a href = "https://www.linkedin.com/in/gaurab-kundu-020803/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
+
