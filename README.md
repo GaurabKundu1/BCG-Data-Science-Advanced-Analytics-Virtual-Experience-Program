@@ -94,4 +94,5 @@ The Lead Data Scientist wants you to draft an executive summary of your findings
 ## Your task
 Develop an executive summary slide synthesizing all the findings from the project so far, keeping in mind that this will be for the steering committee meeting which the head of the SME division, as well as other various stakeholders, will be attending.
 
+# Badge of Completion 
 ![Data Science   Advanced Analytics VEP](https://user-images.githubusercontent.com/86102231/138312314-cce3ea80-26c3-4faa-a13c-b5fdc1f397bd.png)
